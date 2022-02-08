@@ -1,0 +1,2 @@
+# Trade-Ahead-Stock-Clustering
+Trade&amp;Ahead is a financial consultancy firm who provide their customers with personalized investment strategies. Data comprising stock price and some financial indicators for a few companies listed under the New York Stock Exchange has been provided. Objective is to analyze the data, group the stocks based on the attributes provided, and share insights about the characteristics of each group.
